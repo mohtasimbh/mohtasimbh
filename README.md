@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohtasim Billah</h1>
 <h3 align="center">
-  A passionate competitive programmer and a full-stack Software Engineer with over 2 years of professional experience. I am currently working as a Senior Software Engineer at BACIC(Intern).
+  A passionate competitive programmer and a full-stack Software Engineer with over 2 years of professional experience. I am currently working as a Senior Software Engineer at BASIS(Intern).
 </h3>
 
 <p align="left">
@@ -265,23 +265,23 @@
 <p>
   <img
     align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=erfanul007&show_icons=true&locale=en&layout=compact"
-    alt="erfanul007"
+    src=""
+    alt="mohtasimbh"
   />
 </p>
 
 <p>
   &nbsp;<img
     align="center"
-    src="https://github-readme-stats.vercel.app/api?username=erfanul007&show_icons=true&locale=en"
-    alt="erfanul007"
+    src=""
+    alt="mohtasimbh"
   />
 </p>
 
 <p>
   <img
     align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=erfanul007&"
-    alt="erfanul007"
+    src=""
+    alt="mohtasimbh"
   />
 </p>
