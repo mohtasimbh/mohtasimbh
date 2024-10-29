@@ -261,27 +261,3 @@
     />
   </a>
 </p>
-
-<p>
-  <img
-    align="left"
-    src=""
-    alt="mohtasimbh"
-  />
-</p>
-
-<p>
-  &nbsp;<img
-    align="center"
-    src=""
-    alt="mohtasimbh"
-  />
-</p>
-
-<p>
-  <img
-    align="center"
-    src=""
-    alt="mohtasimbh"
-  />
-</p>
